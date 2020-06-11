@@ -41,14 +41,24 @@ also we have a frontend webpages where we integrated ML model into this using Fl
 
 <p align="center">
   <a href="">
-    <img src="https://github.com/Novia-2018/Twitter_Sentiment_Analysis--AV/blob/master/screenshots/Screenshot%20(264).png?raw=true" alt="Logo" width="800" height="400">
+    <img src="https://github.com/Novia-2018/Black-Friday-Sales-Prediction/blob/master/screenshots/photo_2020-06-11_13-21-35.jpg?raw=true" alt="Logo" width="800" height="400">
+    </a></p>
+
+
+<p align="center">
+  <a href="">
+    <img src="https://github.com/Novia-2018/Black-Friday-Sales-Prediction/blob/master/screenshots/photo_2020-06-11_13-21-28.jpg?raw=true" alt="Logo" width="800" height="400">
     </a></p>
 
 <p align="center">
   <a href="">
-    <img src="https://github.com/Lance-Dsilva/Twitter_Sentiment_Analysis--AV/blob/master/screenshots/Screenshot%20(263).png?raw=true" alt="Logo" width="800" height="400">
+    <img src="https://github.com/Novia-2018/Black-Friday-Sales-Prediction/blob/master/screenshots/photo_2020-06-11_13-21-39.jpg?raw=true" alt="Logo" width="800" height="400">
     </a></p>
 
+<p align="center">
+  <a href="">
+    <img src="https://github.com/Novia-2018/Black-Friday-Sales-Prediction/blob/master/screenshots/photo_2020-06-11_13-21-44.jpg?raw=true" alt="Logo" width="800" height="400">
+    </a></p>
 ### Built With
 
 * [Bootstrap](https://getbootstrap.com)
